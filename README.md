@@ -121,4 +121,4 @@ All the following files you need in Android are in `C2DXChartboost/android` fold
 
 
 ##Email: <jesanchezgo@gmail.com>
-##Blog: <http://jesanchezgo.hostwp.es>
+##Blog: <http://games-jesanchezgo.rhcloud.com>
